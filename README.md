@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📚 I'm a Second year Computer Science and Mathematics student at the University of Toronto.
+- 💻 I'm currently taking CSC207 (Software Design).
+- 🔭 I’m currently working on some personal projects on the side.
+- 📫 How to reach me: karl.michaud@mail.utoronto.ca
+- 😄 Fun fact: I love cats!
