@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 - 📚 I'm a Second year Computer Science and Mathematics student at the University of Toronto.
 - 💻 I'm currently taking CSC207 (Software Design).
-- 🔭 I’m currently working on the CSC207 final project with a team.
+- 🔭 My groupmates and I are currently working on the CSC207 final project.
 - 📫 How to reach me: karl.michaud@mail.utoronto.ca
 - 😄 Fun fact: I love cats!
