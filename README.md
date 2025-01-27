@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: karl.michaud@mail.utoronto.ca
 - 😄 Pronouns: he/him
 - 🐈‍⬛ Fun fact: I love cats!
+
+LinkedIn: https://www.linkedin.com/in/karlmichaud
