@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📚 I'm a Second year Computer Science and Mathematics student at the University of Toronto (St George campus).
-- 💻 I'm currently taking CSC209 (Software Tools and Systems Programming) and CSC258 (Computer Organization).
-- 🌱 I have notably completed CSC207 (Software Design)
+- 💻 I'm currently working on many cool projects... Keep your eyes peeled!
+- 🌱 I have notably completed CSC207 (Software Design), CSC209 (Software Tools and Systems Programming) and CSC258 (Computer Organization).
 - 📫 How to reach me: karl.michaud@mail.utoronto.ca
 - 😄 Pronouns: he/him
 - 🐈‍⬛ Fun fact: I love cats!
