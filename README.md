@@ -17,9 +17,10 @@ I'm always tinkering. One week I'm writing C programs that generate AI videos, t
 
 ### 🌱 What I'm Into
 
-- Systems programming and low-level dev (I like C/Assembly way more than I should...)
+- Systems programming and low-level development (I like C and Assembly way more than I should...)
 - Full-stack development (especially backend work)
-- Projects where I get to build the whole thing from scratch and figure stuff out along the way
+- Projects with real-world applications
+- Cybersecurity
 
 ### 📫 Reach Me
 
