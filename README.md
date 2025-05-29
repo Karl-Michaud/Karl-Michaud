@@ -1,24 +1,28 @@
-## Hi there 👋
+## 👋 Hey, I'm Karl-Alexandre Michaud
 
-<!--
-**KarlgitUofT/KarlgitUofT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a second-year Computer Science and Mathematics double major at the University of Toronto (St. George). I like building stuff that solves real problems, whether it's a tool, an app, or something weird I came up with for fun.
 
-Here are some ideas to get you started:
+💡 I'm always tinkering. One week I'm writing C programs that generate AI videos, the next I'm building social apps to make campus life smoother. I like projects that feel useful and teach me something new.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 📚 I'm a Second year Computer Science and Mathematics student at the University of Toronto (St George campus).
-- 💻 Part of the development team for PyTa
-- 🌱 I have notably completed CSC207 (Software Design), CSC209 (Software Tools and Systems Programming) and CSC258 (Computer Organization).
-- 📫 How to reach me: karl.michaud@mail.utoronto.ca
-- 😄 Pronouns: he/him
-- 🐈‍⬛ Fun fact: I love cats!
+Fun fact: I love cats and being outside 🐈‍⬛🌲.
 
-LinkedIn: https://www.linkedin.com/in/karlmichaud
+### 🔧 Experience & Projects
+
+- 💻 **Software Developer** — Developping/maintining PythonTA, an academic tool used by 3900+ undergrad CS students at UofT
+- 🌿 **DeltaHacks Project** — Smart trash bin + iOS app that uses AI to promote better recycling habits
+- 🧠 **AI Video Generator** — A project written in C. Simply write an idea and it is turned into a video with narration and subtitles for you!
+- 📱 **Talk to a Club** — A social app that helps students discover and interact with clubs at UofT
+- 🔐 **NFC Reader Project** — Custom keycard system built using a Raspberry Pi and NFC hardware
+
+### 🌱 What I'm Into
+
+- Systems programming and low-level dev (I like C way more than I should...)
+- Full-stack development (especially backend work)
+- Projects where I get to build the whole thing from scratch and figure stuff out along the way
+
+### 📫 Reach Me
+
+- 📧 karl.michaud@mail.utoronto.ca  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/karlmichaud)
+
+
