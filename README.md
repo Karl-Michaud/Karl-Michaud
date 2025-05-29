@@ -11,12 +11,13 @@ I'm always tinkering. One week I'm writing C programs that generate AI videos, t
 - 💻 **Software Developer** — Developping/maintining PythonTA, an academic tool used by 3900+ undergrad CS students at UofT
 - 🌿 **DeltaHacks Project** — Smart trash bin + iOS app that uses AI to promote better recycling habits
 - 🧠 **AI Video Generator** — A project written in C. Simply write an idea and it is turned into a video with narration and subtitles for you!
+- 🎮 **Dr. Mario in MIPS Assembly** — Built a playable version of Dr. Mario from scratch in MIPS Assembly programming language
 - 📱 **Talk to a Club** — A social app that helps students discover and interact with clubs at UofT
 - 🔐 **NFC Reader Project** — Custom keycard system built using a Raspberry Pi and NFC hardware
 
 ### 🌱 What I'm Into
 
-- Systems programming and low-level dev (I like C way more than I should...)
+- Systems programming and low-level dev (I like C/Assembly way more than I should...)
 - Full-stack development (especially backend work)
 - Projects where I get to build the whole thing from scratch and figure stuff out along the way
 
