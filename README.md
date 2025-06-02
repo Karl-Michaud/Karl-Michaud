@@ -1,6 +1,6 @@
-## 👋 Hey, I'm Karl-Alexandre Michaud
+## 👋 Hey, I'm Karl
 
-I'm a second-year Computer Science and Mathematics double major at the University of Toronto (St. George). I like building stuff that solves real problems, whether it's a tool, an app, or something weird I came up with for fun.
+I'm a third-year Computer Science and Mathematics double major at the University of Toronto (St. George). I like building stuff that solves real problems, whether it's a tool, an app, or something weird I came up with for fun.
 
 I'm always tinkering. One week I'm writing C programs that generate AI videos, the next I'm building social apps to make campus life smoother. I like projects that feel useful and teach me something new.
 
