@@ -6,6 +6,8 @@ I'm always tinkering. One week I'm writing C programs that generate AI videos, t
 
 **Fun fact**: I love cats and being outside 🐈‍⬛🌲.
 
+Check out my website: [karlthedev.tech](https://www.karlthedev.tech)
+
 ### 🔧 Experience & Projects
 
 - 💻 **Software Developer** — Developping/maintining PythonTA, an academic tool used by 3900+ undergrad CS students at UofT
