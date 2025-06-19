@@ -10,7 +10,7 @@ Check out my website: [karlthedev.tech](https://www.karlthedev.tech)
 
 ### 🔧 Experience & Projects
 
-- 💻 **Software Developer** — Developping/maintining PythonTA, an academic tool used by 3900+ undergrad CS students at UofT
+- 💻 **Software Developer** — Developping/maintining PythonTA, an academic tool used by 35,000+ undergrad CS students since 2016
 - 🌿 **DeltaHacks Project** — Smart trash bin + iOS app that uses AI to promote better recycling habits
 - 🧠 **AI Video Generator** — Simply write an idea and it is turned into a video with narration and subtitles for you!
 - 🎮 **Dr. Mario in MIPS Assembly** — Built a playable version of Dr. Mario from scratch in MIPS Assembly programming language
