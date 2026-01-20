@@ -7,6 +7,7 @@ I'm always tinkering. One week I'm writing a C framework, the next I'm building 
 **Fun fact**: I love cats and being outside.
 
 Check out my website: [karlthedev.tech](https://www.karlthedev.tech)
+
 Currently working as a software engineer on MarkUs (~10k users per day).
 
 ### What I'm Into
